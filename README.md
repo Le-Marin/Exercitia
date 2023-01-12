@@ -5,6 +5,10 @@ COMMUNIA
 [Lectio 1](https://le-marin.github.io/Exercitia/lec-01.html)  
 [Lectio 2](https://le-marin.github.io/Exercitia/lec-02.html)  
 
+LLPSI
+
+[Capitulum 1](https://le-marin.github.io/Exercitia/cap-01.html)  
+
 OLC
 
 [Capitulum 2](https://le-marin.github.io/Exercitia/cap-02.html)  

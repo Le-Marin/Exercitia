@@ -3,7 +3,7 @@
 
   if (location.protocol !== 'file:') return;
 
-  loadScript('edit.js');
+  loadScript('_edit.js');
 
   function loadScript(src) {
     const script = document.createElement('script');
