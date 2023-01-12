@@ -2,7 +2,8 @@
 
 COMMUNIA
 
-[Lectio 1](https://le-marin.github.io/Exercitia/lec-02.html)  
+[Lectio 1](https://le-marin.github.io/Exercitia/lec-01.html)  
+[Lectio 2](https://le-marin.github.io/Exercitia/lec-02.html)  
 
 OLC
 
