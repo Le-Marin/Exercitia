@@ -7,7 +7,8 @@ COMMUNIA
 
 LLPSI
 
-[Capitulum 1](https://le-marin.github.io/Exercitia/cap-01.html)  
+[Capitulum 1](https://le-marin.github.io/Exercitia/capit-01.html)  
+[Capitulum 2](https://le-marin.github.io/Exercitia/capit-02.html)  
 
 OLC
 
