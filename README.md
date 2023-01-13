@@ -20,6 +20,7 @@ OLC
 [Capitulum 5](https://le-marin.github.io/Exercitia/cap-05.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extra 5](https://le-marin.github.io/Exercitia/extra-05.html)  
 [Capitulum 6](https://le-marin.github.io/Exercitia/cap-06.html)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extra 6](https://le-marin.github.io/Exercitia/extra-06-1.html)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extra 6.1](https://le-marin.github.io/Exercitia/extra-06-1.html)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extra 6.2](https://le-marin.github.io/Exercitia/extra-06-2.html)  
 [Capitulum 7](https://le-marin.github.io/Exercitia/cap-07.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extra 7](https://le-marin.github.io/Exercitia/extra-07.html)  
