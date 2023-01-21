@@ -13,7 +13,8 @@ LLPSI
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 2](https://le-marin.github.io/Exercitia/ultra-02.html)  
 [Capitulum 3](https://le-marin.github.io/Exercitia/capit-03.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 6](https://le-marin.github.io/Exercitia/ultra-06.html)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 7](https://le-marin.github.io/Exercitia/ultra-07.html)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 7.1](https://le-marin.github.io/Exercitia/ultra-07-1.html)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 7.2](https://le-marin.github.io/Exercitia/ultra-07-2.html)  
 
 OLC
 
