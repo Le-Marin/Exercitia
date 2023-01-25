@@ -39,3 +39,4 @@ OLC
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extra 9](https://le-marin.github.io/Exercitia/extra-09.html)  
 [Capitulum 10](https://le-marin.github.io/Exercitia/cap-10.html)  
 [Capitulum 11](https://le-marin.github.io/Exercitia/cap-11.html)  
+[Capitulum 12](https://le-marin.github.io/Exercitia/cap-12.html)  
