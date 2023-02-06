@@ -2,16 +2,16 @@
 
 <details>
 <summary>COMMUNIA</summary>
-&nbsp;
-
+  
+  
 [Lectio 1](https://le-marin.github.io/Exercitia/lec-01.html)  
 [Lectio 2](https://le-marin.github.io/Exercitia/lec-02.html)  
 </details>
 
 <details>
 <summary>LLPSI</summary>
-&nbsp;
-
+  
+  
 [Capitulum 1](https://le-marin.github.io/Exercitia/capit-01.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 1](https://le-marin.github.io/Exercitia/ultra-01.html)  
 [Capitulum 2](https://le-marin.github.io/Exercitia/capit-02.html)  
@@ -29,8 +29,8 @@
 
 <details>
 <summary>OLC</summary>
-&nbsp;
-
+  
+  
 [Capitulum 2](https://le-marin.github.io/Exercitia/cap-02.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extra 2](https://le-marin.github.io/Exercitia/extra-02.html)  
 [Capitulum 3](https://le-marin.github.io/Exercitia/cap-03.html)  
