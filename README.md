@@ -1,11 +1,16 @@
 # Exercitia
 
-COMMUNIA
+<details>
+<summary>COMMUNIA</summary>
+&nbsp;
 
 [Lectio 1](https://le-marin.github.io/Exercitia/lec-01.html)  
 [Lectio 2](https://le-marin.github.io/Exercitia/lec-02.html)  
+</details>
 
-LLPSI
+<details>
+<summary>LLPSI</summary>
+&nbsp;
 
 [Capitulum 1](https://le-marin.github.io/Exercitia/capit-01.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 1](https://le-marin.github.io/Exercitia/ultra-01.html)  
@@ -20,8 +25,11 @@ LLPSI
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 7.2](https://le-marin.github.io/Exercitia/ultra-07-2.html)  
 [Capitulum 8](https://le-marin.github.io/Exercitia/capit-08.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 8](https://le-marin.github.io/Exercitia/ultra-08.html)  
+</details>
 
-OLC
+<details>
+<summary>OLC</summary>
+&nbsp;
 
 [Capitulum 2](https://le-marin.github.io/Exercitia/cap-02.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extra 2](https://le-marin.github.io/Exercitia/extra-02.html)  
@@ -44,3 +52,4 @@ OLC
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extra 10](https://le-marin.github.io/Exercitia/extra-10.html)  
 [Capitulum 11](https://le-marin.github.io/Exercitia/cap-11.html)  
 [Capitulum 12](https://le-marin.github.io/Exercitia/cap-12.html)  
+</details>
