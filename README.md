@@ -4,6 +4,7 @@ COMMUNIA
 
 [Lectio 1](https://le-marin.github.io/Exercitia/lec-01.html)  
 [Lectio 2](https://le-marin.github.io/Exercitia/lec-02.html)  
+[Gerundi(v)um](https://le-marin.github.io/Exercitia/gerund-&-gerundive.html)  
 
 LLPSI
 
