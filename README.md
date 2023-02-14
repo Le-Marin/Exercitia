@@ -16,6 +16,7 @@ LLPSI
 [Capitulum 4](https://le-marin.github.io/Exercitia/capit-04.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 4](https://le-marin.github.io/Exercitia/ultra-04.html)  
 [Capitulum 5](https://le-marin.github.io/Exercitia/capit-05.html)  
+[Capitulum 6](https://le-marin.github.io/Exercitia/capit-06.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 6](https://le-marin.github.io/Exercitia/ultra-06.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 7.1](https://le-marin.github.io/Exercitia/ultra-07-1.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 7.2](https://le-marin.github.io/Exercitia/ultra-07-2.html)  
