@@ -30,6 +30,7 @@ LLPSI
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 10](https://le-marin.github.io/Exercitia/ultra-10.html)  
 [Capitulum 11](https://le-marin.github.io/Exercitia/capit-11.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ultra 11](https://le-marin.github.io/Exercitia/ultra-11.html)  
+[Capitulum 12](https://le-marin.github.io/Exercitia/capit-12.html)  
 
 OLC
 
