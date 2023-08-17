@@ -75,8 +75,8 @@ $_GET({
       <div><br></div>
     </div>
     <div class="row">
-    	<div><span style="white-space: pre;">	</span>III</div>
-    	<div><br></div>
+      <div><span style="white-space: pre;">	</span>III</div>
+      <div><br></div>
       <div><b>Exercitium 6</b></div>
       <div><br></div>
       <div><i><div class="area">-a</div> <div class="area">-us</div></i></div>

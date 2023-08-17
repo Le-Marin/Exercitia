@@ -73,8 +73,8 @@ $_GET({
       <div><br></div>
       <div><i><div class="area">servus</div> <div class="area">ancilla</div> <div class="area">dominus</div> <div class="area">domina</div> <div class="area">līberī</div></i></div>
       <div><br></div>
-      <div>ancill<b>a</b> → ancill<b>ae</b><span style="white-space: pre;"><b>	</b></span><b style="white-space: pre;">	</b><b style="white-space: pre;">	</b><span style="white-space: pre;">serv</span><b style="white-space: pre;">us</b><span style="white-space: pre;"> → serv<b>ī</b></span></div>
-      <div>ancill<b>ae</b> → ancill<b>ārum</b><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span>serv<b>ī</b> <span style="white-space: pre;">→ serv</span><b style="white-space: pre;">ōrum</b></div>
+      <div>ancill<b>a</b> → ancill<b>ae</b><span style="white-space: pre;">			</span>serv<b>us</b> → serv<b>ī</b></div>
+      <div>ancill<b>ae</b> → ancill<b>ārum</b><span style="white-space: pre;">		</span>serv<b>ī</b> → serv<b>ōrum</b></div>
       <div><br></div>
       <div>1. Mēdus nōn est fīlius Iūliī, Mēdus <div class="area" data-key="servus"></div> Iūliī est.</div>
       <div>2. Dēlia nōn est fīlia Aemiliae, Dēlia <div class="area" data-key="ancilla"></div> Aemiliae est.</div>

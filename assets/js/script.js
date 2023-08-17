@@ -72,24 +72,57 @@
 
   // ======================
 
+  let tip = { hide: Function.prototype };
+
+  loadScript(`assets/js/tip.js${ver}`).then(() => {
+    tip = __TIP;
+    tip.__init__(() => rootNodes.push(tip.target));
+  });
+
+  // ======================
+
   const [checkButton, checkTextEl] = checkForm.children;
 
   checkButton.addEventListener('click', function() {
     const elems = $$('.area[data-key]');
 
-    function onInput() {
-      const key = this.dataset.key.toLowerCase();
-      const val = this.textContent.toLowerCase();
-      const isValid = key.split(' | ').some(x => x === val);
-      this.dataset.valid = +isValid;
+    if (this.__enabled) {
+      tip.hide();
+      this.__enabled = false;
+      checkTextEl.textContent = '';
+
+      return elems.forEach((el) => {
+        el.removeAttribute('data-valid');
+        el.oninput = el.onfocus = el.onblur = null;
+      });
     }
 
-    elems.filter((el) => el.dataset.key).forEach((el) => {
-      el.oninput = onInput;
-      el.oninput();
+    this.__enabled = true;
+    checkTextEl.textContent = ` / ${elems.length}`;
+
+    elems.forEach((el) => {
+      setValid(el);
+      el.onfocus = onFocus;
     });
 
-    checkTextEl.textContent = ` / ${elems.length}`;
+    function setValid(el) {
+      const key = el.dataset.key.toLowerCase();
+      const val = el.textContent.toLowerCase();
+      const isValid = key.split(' | ').some(x => x === val);
+      el.dataset.valid = +isValid;
+      return isValid;
+    }
+
+    function onFocus() {
+      this.onblur = tip.hide;
+      this.oninput = onInput;
+      if (!+this.dataset.valid) tip.render(this);
+    }
+
+    function onInput() {
+      if (setValid(this)) tip.hide();
+      else tip.render(this);
+    }
   });
 
   // ======================
@@ -100,9 +133,11 @@
     pageData = data;
     document.title = `${docTitle} | ${data.title}`;
     checkTextEl.textContent = '';
+    checkButton.__enabled = false;
     document.body.className = data.className;
     rowsCont.innerHTML = data.html;
     keyboard.onRootChange(data);
+    tip.hide();
     root.classList.remove('__unavailable');
     root.replaceChildren(...rootNodes);
   };
@@ -117,8 +152,6 @@
     const response = await loadScript(url).catch(error => error);
     return (response instanceof Error) ? response : pageData;
   });
-
-  view.addEventListener('hashchange', () => view.onRoute());
 
   view.onRoute = async function() {
     const url = location.hash.slice(2);
@@ -147,7 +180,7 @@
 
     if (~ind) url = url.slice(ind);
 
-    printError('404 Not Found', `Cannot GET page <span>${url}</span>`);
+    printError('404 Not Found', `Cannot GET <span>${url}</span>`);
   }
 
   function printError(title, text) {

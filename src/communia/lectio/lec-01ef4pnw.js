@@ -1,5 +1,5 @@
 $_GET({
-  title: 'COMMUNIA: Lectio 1',
+  title: 'COMMVNIA: Lectio 1',
   keys: 'Á É Í Ó Ú Ý | Ā́ Ḗ Ī́ Ṓ Ū́ Ȳ́ Ǽ Œ́',
   html: /*html*/`
     <div class="row">

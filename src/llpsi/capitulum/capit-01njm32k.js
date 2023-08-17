@@ -38,7 +38,7 @@ $_GET({
       <div><br></div>
       <div><b>Exercitium 4</b></div>
       <div><br></div>
-      <div><div class="area">a → ae</div> <div class="area">us → ī</div> <div class="area">um → a</div></div>
+      <div><div class="area">-a → -ae</div> <div class="area">-us → -ī</div> <div class="area">-um → -a</div></div>
       <div>īnsul<b>a</b> magn<b>a</b> → īnsul<b>ae</b> magn<b>ae</b></div>
       <div>fluvi<b>us</b> magn<b>us</b> → fluvi<b>ī</b> magn<b>ī</b></div>
       <div>oppid<b>um</b> magn<b>um</b>→ oppid<b>a</b> magn<b>a</b></div>
@@ -107,7 +107,7 @@ $_GET({
     <div class="row">
       <div><b>Exercitium 10</b></div>
       <div><br></div>
-      <div><div class="area">-<b>a</b> → in -<b>ā</b></div> <div class="area">-<b>us</b>/-<b>um</b>→ in -<b>ō</b></div></div>
+      <div><div class="area">-<b>a</b> → in -<b>ā</b></div> <div class="area">-<b>us</b>/-<b>um</b> → in -<b>ō</b></div></div>
       <div><br></div>
       <div>1. Itali<div class="area" data-key="a"></div> in Eurōpā est.</div>
       <div>2. Rōma in Itali<div class="area" data-key="ā"></div> est.</div>

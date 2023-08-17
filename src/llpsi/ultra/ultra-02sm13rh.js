@@ -22,11 +22,11 @@ $_GET({
       <div>silv<b>ā</b> quiēt<b>ā</b> <div class="area" data-key="abl sg"></div> ← <div class="area" data-key="silva quiēta"></div></div>
       <div>hort<b>ōrum</b> pulchr<b>ōrum</b> <div class="area" data-key="gen pl"></div> ← <div class="area" data-key="hortus pulcher"></div></div>
       <div>foli<b>a</b> flāv<b>a</b> <div class="area" data-key="nom pl"></div> ← <div class="area" data-key="folium flāvum"></div></div>
-      <div>vir<b>ī</b> timid<b>ī</b> <div class="area" data-key="gen sg | nom pl | gen sg / nom pl | nom pl / gen sg"></div> ← <div class="area" data-key="vir timidus"></div></div>
+      <div>vir<b>ī</b> timid<b>ī</b> <div class="area" data-key="gen sg | nom pl | gen sg / nom pl"></div> ← <div class="area" data-key="vir timidus"></div></div>
       <div>cist<b>ārum</b> plēn<b>ārum</b> <div class="area" data-key="gen pl"></div> ← <div class="area" data-key="cista plēna"></div></div>
-      <div>fabr<b>ī</b> perīt<b>ī</b> <div class="area" data-key="gen sg | nom pl | gen sg / nom pl | nom pl / gen sg"></div> ← <div class="area" data-key="faber perītus"></div></div>
+      <div>fabr<b>ī</b> perīt<b>ī</b> <div class="area" data-key="gen sg | nom pl | gen sg / nom pl"></div> ← <div class="area" data-key="faber perītus"></div></div>
       <div>sax<b>ō</b> dūr<b>ō</b> <div class="area" data-key="abl sg"></div> ← <div class="area" data-key="saxum dūrum"></div></div>
-      <div>umbr<b>ae</b> ōminōs<b>ae</b> <div class="area" data-key="gen sg | nom pl | gen sg / nom pl | nom pl / gen sg"></div> ← <div class="area" data-key="umbra ōminōsa"></div></div>
+      <div>umbr<b>ae</b> ōminōs<b>ae</b> <div class="area" data-key="gen sg | nom pl | gen sg / nom pl"></div> ← <div class="area" data-key="umbra ōminōsa"></div></div>
     </div>
   `
 });
