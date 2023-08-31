@@ -140,8 +140,8 @@ $_GET({
     <div class="row">
       <div><b>7. Задать вопросы к выделенным словам.</b></div>
       <div><br></div>
-      <div><div><i>Exemplum</i>:<span style="white-space: pre;">	</span><b>Iūlius</b> Tūsculī est. <div class="area">quis?</div></div>
-      <div><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span>Iūlius <b>Tūsculī</b> est. <div class="area">ubi?</div></div></div>
+      <div><i>Exemplum</i>:<span style="white-space: pre;">	</span><b>Iūlius</b> Tūsculī est. <div class="area">quis?</div></div>
+      <div><span style="white-space: pre;">			</span>Iūlius <b>Tūsculī</b> est. <div class="area">ubi?</div></div>
       <div><br></div>
       <div>1. <b>Cornēlius </b>nōn ambulat, sed equō vehitur. <div class="area" data-key="quis?"></div></div>
       <div>2. Aemilia <b>fīlium improbum</b> verberat. <div class="area" data-key="quem?"></div></div>

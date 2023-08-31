@@ -49,7 +49,9 @@ $_GET({
     <div class="row">
       <div><b>Exercitium 4</b></div>
       <div><br></div>
-      <div><i>Exemplum</i>:<span style="white-space: pre;">	</span>pāstor (<i>m, 3</i>) bon<b>us</b> (<i>m, 2</i>)</div><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span>ov<b>is</b> (<i>f, 3</i>) alb<b>a</b> (<i>f, 1</i>)<span style="white-space: pre;"><br></span><div><br></div>
+      <div><i>Exemplum</i>:<span style="white-space: pre;">	</span>pāstor (<i>m, 3</i>) bon<b>us</b> (<i>m, 2</i>)</div>
+      <div><span style="white-space: pre;">			</span>ov<b>is</b> (<i>f, 3</i>) alb<b>a</b> (<i>f, 1</i>)</div>
+      <div><br></div>
       <div>1. Pāstor bon<div class="area" data-key="us"></div> ab ovibus nōn abit.</div>
       <div>2. Ovēs pāstōrem bon<div class="area" data-key="um"></div> amant.</div>
       <div>3. Iūlius est dominus pāstōris bon<div class="area" data-key="ī"></div>.</div>

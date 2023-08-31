@@ -19,9 +19,8 @@ $_GET({
     <div class="row">
       <div><b>2. Задать вопросы к выделенным словам.</b></div>
       <div><br></div>
-      <div><div>Exemplum:<span style="white-space: pre;">	</span><b>Iūlius</b> Tūsculī est. <div class="area">quis?</div></div>
-      <div><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span>Iūlius <b>Tūsculī</b> est. <div class="area">ubi?</div></div>
-      </div>
+      <div>Exemplum:<span style="white-space: pre;">	</span><b>Iūlius</b> Tūsculī est. <div class="area">quis?</div></div>
+      <div><span style="white-space: pre;">				</span>Iūlius <b>Tūsculī</b> est. <div class="area">ubi?</div></div>
       <div><br></div>
       <div>1. Quīntus <b>Iūliō</b> nōn respondet. → <div class="area" data-key="cui?"></div></div>
       <div>2. <b>Pater</b> in cubiculō dormit. → <div class="area" data-key="quis?"></div></div>

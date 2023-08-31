@@ -85,6 +85,7 @@
 
   checkButton.addEventListener('click', function() {
     const elems = $$('.area[data-key]');
+    const spaceReg = /\s+/g;
 
     if (this.__enabled) {
       tip.hide();
@@ -99,24 +100,27 @@
 
     this.__enabled = true;
     checkTextEl.textContent = ` / ${elems.length}`;
+    root.appendChild(tip.target);
 
     elems.forEach((el) => {
+      if (!el.hasOwnProperty('__keys')) {
+        el.__keys = el.getAttribute('data-key').toLowerCase().split(' | ');
+      }
       setValid(el);
       el.onfocus = onFocus;
     });
 
     function setValid(el) {
-      const key = el.dataset.key.toLowerCase();
-      const val = el.textContent.toLowerCase();
-      const isValid = key.split(' | ').some(x => x === val);
-      el.dataset.valid = +isValid;
+      const val = el.textContent.toLowerCase().trim().replace(spaceReg, ' ');
+      const isValid = el.__keys.some(x => x === val);
+      el.setAttribute('data-valid', +isValid);
       return isValid;
     }
 
     function onFocus() {
       this.onblur = tip.hide;
       this.oninput = onInput;
-      if (!+this.dataset.valid) tip.render(this);
+      if (this.getAttribute('data-valid') === '0') tip.render(this);
     }
 
     function onInput() {

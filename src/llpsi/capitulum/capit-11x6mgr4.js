@@ -64,7 +64,7 @@ $_GET({
       <div><b>Exercitium 5</b></div>
       <div><br></div>
       <div><i>Exempla:</i><span style="white-space: pre;">	</span>Dominus: “Tacē, serve!” → Dominus servum tacēre iubet.</div>
-      <div><span style="white-space: pre;">		</span><span style="white-space: pre;">	</span>Dominus: “Tacēte, servī!” → Dominus servōs tacēre iubet.</div>
+      <div><span style="white-space: pre;">			</span>Dominus: “Tacēte, servī!” → Dominus servōs tacēre iubet.</div>
       <div><br></div>
       <div>1. Medicus: “Ōs aper<div class="area" data-key="ī"></div>, puer, et linguam ostend<div class="area" data-key="e"></div>!”</div>
       <div>Medicus puer<div class="area" data-key="um"></div> ōs aper<div class="area" data-key="īre"></div> et linguam ostend<div class="area" data-key="ere"></div> iubet.</div>
@@ -86,7 +86,7 @@ $_GET({
       <div><b>Exercitium 6</b></div>
       <div><br></div>
       <div><i>Exempla</i>:<span style="white-space: pre;">	</span>Iūlia canit. → Mārcus Iūliam canere audit.</div>
-      <div><span style="white-space: pre;">		</span><span style="white-space: pre;">	</span>Mārcus: “Iūlia canit.” → Mārcus ‘Iūliam canere’ dīcit.</div>
+      <div><span style="white-space: pre;">			</span>Mārcus: “Iūlia canit.” → Mārcus ‘Iūliam canere’ dīcit.</div>
       <div><br></div>
       <div>1. Puer dorm<div class="area" data-key="it"></div>. Medicus puer<div class="area" data-key="um"></div> dorm<div class="area" data-key="īre"></div> videt.</div>
       <div>2. Medicus: “Puer dorm<div class="area" data-key="it"></div>.” Medicus ‘puer<div class="area" data-key="um"></div> dorm<div class="area" data-key="īre"></div>’ dīcit.</div>
@@ -141,7 +141,8 @@ $_GET({
     <div class="row">
       <div><b>Exercitium l0</b></div>
       <div><br></div>
-      <div><i>Exemplum</i>:<span style="white-space: pre;">	</span>[<b>Māter </b><i>gaudet</i>] {quod <b>fīlius </b><i>vīvit</i>}. =</div><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span>[<b>Māter </b>{fīlium vīvere} <i>gaudet</i>].<span style="white-space: pre;"><br></span>
+      <div><i>Exemplum</i>:<span style="white-space: pre;">	</span>[<b>Māter </b><i>gaudet</i>] {quod <b>fīlius </b><i>vīvit</i>}. =</div>
+      <div><span style="white-space: pre;">			</span>[<b>Māter </b>{fīlium vīvere} <i>gaudet</i>].</div>
       <div><br></div>
       <div>1. Quīntus gaudet quod medicus abest. =</div>
       <div>Quīntus medic<div class="area" data-key="um"></div> ab<div class="area" data-key="esse"></div> gaudet.</div>

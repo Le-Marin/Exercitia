@@ -2,7 +2,7 @@ $_GET({
   title: 'LLPSI: Capitulum 12',
   html: /*html*/`
     <div class="row">
-      <div><span style="white-space: pre;">	</span>I<br></div>
+      <div><span style="white-space: pre;">	</span>I</div>
       <div><br></div>
       <div><b>Exercitium 1</b></div>
       <div><br></div>
@@ -75,7 +75,7 @@ $_GET({
       <div><b>Exercitium 6</b></div>
       <div><br></div>
       <div><i>Exempla</i>:<span style="white-space: pre;">	</span>Gladius long<b>us</b>. Gladius brev<b>is</b>.</div>
-      <div><span style="white-space: pre;">		</span><span style="white-space: pre;">	</span>Hasta long<b>a</b>. Hasta brev<b>is</b>.</div>
+      <div><span style="white-space: pre;">			</span>Hasta long<b>a</b>. Hasta brev<b>is</b>.</div>
       <div><br></div>
       <div>1. Gladius long<div class="area" data-key="us"></div> nōn tam lev<div class="area" data-key="is"></div> est quam gladius brev<div class="area" data-key="is"></div>.</div>
       <div>2. Hasta brev<div class="area" data-key="is"></div> nōn tam grav<div class="area" data-key="is"></div> est quam hasta long<div class="area" data-key="a"></div>.</div>
@@ -178,11 +178,13 @@ $_GET({
       <div><br></div>
     </div>
     <div class="row">
-      <div><span style="white-space: pre;">	</span>III<br></div>
+      <div><span style="white-space: pre;">	</span>III</div>
       <div><br></div>
       <div><b>Exercitium 13</b></div>
       <div><br></div>
-      <div><i>Exemplum</i>:<span style="white-space: pre;">	</span>gladius/hasta grav<b>is</b></div><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span>scūtum grav<b>e</b><span style="white-space: pre;"><br></span><div><br></div>
+      <div><i>Exemplum</i>:<span style="white-space: pre;">	</span>gladius/hasta grav<b>is</b></div>
+      <div><span style="white-space: pre;">			</span>scūtum grav<b>e</b></div>
+      <div><br></div>
       <div><i><div class="area">-us/-a</div> <div class="area">-um/-am</div> <div class="area">-ī/ae</div> <div class="area">-ō/ae</div> <div class="area">-ō/-ā</div></i> |<i> <div class="area">-um</div></i></div>
       <div><i><div class="area">-is</div> <div class="area">-em</div> <div class="area">-is</div> <div class="area">-ī</div> <div class="area">-ī</div></i> |<i> <div class="area">-e</div><br></i></div>
       <div><i><br></i></div>
@@ -208,9 +210,11 @@ $_GET({
     <div class="row">
       <div><b>Exercitium 14</b></div>
       <div><br></div>
-      <div><div><i>Exemplum</i>:<span style="white-space: pre;">	</span>gladius/hasta grav<u>ior</u></div><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span>scūtum grav<u>ius</u><span style="white-space: pre;"><br></span><div><br></div>
-      <div><i><div class="area">-ior</div> <div class="area">-iōrem</div> <div class="area">-iōris</div> <div class="area">-iōrī</div> <div class="area">-iōre</div></i> | <i><div class="area">-ius</div></i></div></div>
-      <div><i><div class="area">-iōrēs</div> <div class="area">-iōrēs</div> <div class="area">-iōrum</div> <div class="area">-iōribus</div> <div class="area">-iōribus</div></i> | <i><div class="area">-iōra</div></i><br></div>
+      <div><i>Exemplum</i>:<span style="white-space: pre;">	</span>gladius/hasta grav<u>ior</u></div>
+      <div><span style="white-space: pre;">			</span>scūtum grav<u>ius</u></div>
+      <div><br></div>
+      <div><i><div class="area">-ior</div> <div class="area">-iōrem</div> <div class="area">-iōris</div> <div class="area">-iōrī</div> <div class="area">-iōre</div></i> | <i><div class="area">-ius</div></i></div>
+      <div><i><div class="area">-iōrēs</div> <div class="area">-iōrēs</div> <div class="area">-iōrum</div> <div class="area">-iōribus</div> <div class="area">-iōribus</div></i> | <div class="area"><i>-iōra</i></div></div>
       <div><br></div>
       <div>1. Via Appia long<div class="area" data-key="ior"></div> et lāt<div class="area" data-key="ior"></div> est quam via Latīna.</div>
       <div>2. Multae viae long<div class="area" data-key="iōrēs"></div> et lāt<div class="area" data-key="iōrēs"></div> sunt quam via Latīna.</div>

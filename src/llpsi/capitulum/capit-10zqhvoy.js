@@ -2,7 +2,7 @@ $_GET({
   title: 'LLPSI: Capitulum 10',
   html: /*html*/`
     <div class="row">
-      <div><span style="white-space: pre;">	</span>I<br></div>
+      <div><span style="white-space: pre;">	</span>I</div>
       <div><br></div>
       <div><b>Exercitium 1</b></div>
       <div><br></div>
@@ -44,7 +44,7 @@ $_GET({
       <div><br></div>
     </div>
     <div class="row">
-      <div><span style="white-space: pre;">	</span>II<br></div>
+      <div><span style="white-space: pre;">	</span>II</div>
       <div><br></div>
       <div><b>Exercitium 4</b></div>
       <div><br></div>
@@ -69,7 +69,7 @@ $_GET({
       <div><i><div class="area">-ārī</div> <div class="area">-ērī</div> <div class="area">-ī</div> <div class="area">-īrī</div></i></div>
       <div><br></div>
       <div><i>Exempla:</i><span style="white-space: pre;">	</span>Iūlius Iūliam <b>portāre</b>/<b>vehere</b> potest.</div>
-      <span style="white-space: pre;">	</span><span style="white-space: pre;">		</span>Iūlia ā Iūliō <b>portārī</b>/<b>vehī</b> potest.<span style="white-space: pre;"><br></span>
+      <div><span style="white-space: pre;">			</span>Iūlia ā Iūliō <b>portārī</b>/<b>vehī</b> potest.</div>
       <div><br></div>
       <div>1. Iūlia magnum saccum port<div class="area" data-key="āre"></div> nōn potest.</div>
       <div>2. Magnus saccus ā parvā puellā port<div class="area" data-key="ārī"></div> nōn potest.</div>
@@ -109,12 +109,9 @@ $_GET({
     <div class="row">
       <div><b>Exercitium 7</b></div>
       <div><br></div>
-      <div><div><i><div class="area">flūmen</div> <div class="area">flūmin<b>is</b></div> <div class="area">flūmin<b>ī</b></div> <div class="area">flūmin<b>e</b></div> / <div class="area">flūmin<b>a</b></div> <div class="area">flūmin<b>um</b></div> <div class="area">flūmin<b>ibus</b></div></i></div>
+      <div><i><div class="area">flūmen</div> <div class="area">flūmin<b>is</b></div> <div class="area">flūmin<b>ī</b></div> <div class="area">flūmin<b>e</b></div> / <div class="area">flūmin<b>a</b></div> <div class="area">flūmin<b>um</b></div> <div class="area">flūmin<b>ibus</b></div></i></div>
       <div><i><div class="area">mar<b>e</b></div> <div class="area">mar<b>is</b></div> <div class="area">mar<b>ī</b></div> / </i><i><div class="area">mar<b>ia</b></div> <div class="area">mar<b>ium</b></div> <div class="area">mar<b>ibus</b></div></i></div>
-      
       <div><i><div class="area">animal</div> <div class="area">animāl<b>is</b></div> <div class="area">animāl<b>ī</b></div> / <div class="area">animāl<b>ia</b></div> <div class="area">animāl<b>ium</b></div> <div class="area">animāl<b>ibus</b></div></i></div>
-      
-      </div>
       <div><br></div>
       <div>1. Nīlus magn<div class="area" data-key="um"></div> flūm<div class="area" data-key="en"></div> est.</div>
       <div>2. Nīlus et Rhēnus magn<div class="area" data-key="a"></div> flūm<div class="area" data-key="ina"></div> sunt.</div>
@@ -133,7 +130,7 @@ $_GET({
       <div><br></div>
     </div>
     <div class="row">
-      <div><span style="white-space: pre;">	</span>III<br></div>
+      <div><span style="white-space: pre;">	</span>III</div>
       <div><br></div>
       <div><b>Exercitium 8</b></div>
       <div><br></div>
@@ -156,8 +153,8 @@ $_GET({
       <div><b>Exercitium 9</b></div>
       <div><br></div>
       <div><i>Exempla:</i><span style="white-space: pre;">	</span><b>Albīnus</b> <i>clāmat</i>. Lȳdia <b>Albīnum </b><i>clāmāre </i>audit.</div>
-      <div><span style="white-space: pre;">		</span><span style="white-space: pre;">	</span><b>Saccus</b> ā Syrō <i>aperītur</i>. Puer <b>saccum </b>ā Syrō <i>aperīrī </i>videt.</div>
-      <div><span style="white-space: pre;">		</span><span style="white-space: pre;">	</span><b>Saccus</b> <i>plēnus est</i>. Puer <b>saccum </b><i>plēnum esse </i>videt.</div>
+      <div><span style="white-space: pre;">			</span><b>Saccus</b> ā Syrō <i>aperītur</i>. Puer <b>saccum </b>ā Syrō <i>aperīrī </i>videt.</div>
+      <div><span style="white-space: pre;">			</span><b>Saccus</b> <i>plēnus est</i>. Puer <b>saccum </b><i>plēnum esse </i>videt.</div>
       <div><br></div>
       <div>1. Iūlia canit. Puerī Iūli<div class="area" data-key="am"></div> can<div class="area" data-key="ere"></div> audiunt.</div>
       <div>2. Iūlia ā Mārcō pulsātur. Quīntus Iūli<div class="area" data-key="am"></div> ā Mārcō puls<div class="area" data-key="ārī"></div> videt.</div>
