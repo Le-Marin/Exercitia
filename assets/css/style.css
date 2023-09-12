@@ -49,6 +49,7 @@ body {
 
 .error {
   font-family: initial;
+  font-size: 1.6rem;
   padding: 2rem;
 }
 .error > h1 {

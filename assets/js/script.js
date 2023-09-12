@@ -202,7 +202,7 @@
 
   // ======================
 
-  if (location.protocol === 'file:') {
+  if (/^file:|\/localhost:/.test(location.href)) {
     view.__ROOT = { root, rootNodes, get pageData() { return pageData; } };
     loadScript('assets/js/_admin.js');
   } else onRoute();
