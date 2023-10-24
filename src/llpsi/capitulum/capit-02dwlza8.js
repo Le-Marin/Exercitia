@@ -25,7 +25,7 @@ $_GET({
       <div>Iūli<b>a</b> → pater Iūli<b>ae</b></div>
       <div><br></div>
       <div>1. Iūlius pater est. Aemilia est <div class="area" data-key="māter"></div>.</div>
-      <div>2. Iūlia fīlia est. Mārcus et Quīntus <div class="area" data-key="fīlius"></div> sunt.</div>
+      <div>2. Iūlia fīlia est. Mārcus et Quīntus <div class="area" data-key="fīliī"></div> sunt.</div>
       <div>3. Mārcus et Quīntus et Iūlia sunt trēs <div class="area" data-key="līberī"></div>.</div>
       <div>4. Iūlia nōn māter, sed <div class="area" data-key="fīlia"></div> est.</div>
       <div>5. Nōn pater, sed <div class="area" data-key="fīlius"></div> est Mārcus.</div>
@@ -92,8 +92,7 @@ $_GET({
     <div class="row">
       <div><b>Exercitium 7</b></div>
       <div><br></div>
-      <div>ancill<b>ae</b> → ancill<b>ārum</b></div>
-      <div>serv<b>ī</b> → serv<b>ōrum</b></div>
+      <i><div class="area">-ārum</div> <div class="area">-ōrum</div></i>
       <div><br></div>
       <div>1. Iūlius est dominus mult<div class="area" data-key="ōrum"></div> serv<div class="area" data-key="ōrum"></div>.</div>
       <div>2. Numerus serv<div class="area" data-key="ōrum"></div> est centum.</div>
@@ -132,7 +131,7 @@ $_GET({
       <div>4. Tūsculum et Brundisium <div class="area" data-key="duo"></div> oppida sunt.</div>
       <div>5. <div class="area" data-key="quot"></div> līberī in familiā sunt? <div class="area" data-key="trēs"></div> līberī.</div>
       <div>6. In familiā nōn <div class="area" data-key="duae"></div> fīliae, sed <div class="area" data-key="ūna"></div> fīlia est.</div>
-      <div>7. In familiā nōn <div class="area" data-key="ūnus"></div> filius, sed <div class="area" data-key="duo"></div> fīliī sunt.</div>
+      <div>7. In familiā nōn <div class="area" data-key="ūnus"></div> fīlius, sed <div class="area" data-key="duo"></div> fīliī sunt.</div>
       <div>8. <i>Vir</i>, <i>puer</i>, <i>puella</i> <div class="area" data-key="tria"></div> vocābula sunt.</div>
       <div>9. Rhēnus et Dānuvius et Tiberis <div class="area" data-key="trēs"></div> fluviī sunt: <div class="area" data-key="duo"></div> fluviī magnī et <div class="area" data-key="ūnus"></div> fluvius parvus.</div>
       <div>10. Brundisium et Sparta et Delphī <div class="area" data-key="tria"></div> oppida sunt: <div class="area" data-key="duo"></div> oppida magna et <div class="area" data-key="ūnum"></div> oppidum parvum.</div>
