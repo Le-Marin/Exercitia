@@ -2,7 +2,7 @@ $_GET({
   title: 'LLPSI: Ultra 2',
   html: /*html*/`
     <div class="row">
-      <div><b>1. Дать форму генетива.</b></div>
+      <div><b>1. Дать форму генитива.</b></div>
       <div><br></div>
       <div>lacrim<b>a</b> → <div class="area" data-key="lacrimae"></div></div>
       <div>lōr<b>a</b> <i>pl</i> → <div class="area" data-key="lōrōrum"></div></div>
