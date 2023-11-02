@@ -3,7 +3,6 @@
 
   const { $, $$, parseNode, loadScript, memoize } = __UTILS;
 
-  const docTitle = document.title;
   const curScript = document.currentScript || [...document.scripts].pop();
   const ver = (curScript.src.match(/\?v=\d+$/) || [''])[0];
 
@@ -72,12 +71,8 @@
 
   // ======================
 
-  let tip = { hide: Function.prototype };
-
-  loadScript(`assets/js/tip.js${ver}`).then(() => {
-    tip = __TIP;
-    tip.__init__(() => rootNodes.push(tip.target));
-  });
+  const tip = __TIP;
+  tip.__init__(() => rootNodes.push(tip.target));
 
   // ======================
 
@@ -135,7 +130,7 @@
 
   view.onRootChange = function(data) {
     pageData = data;
-    document.title = `${docTitle} | ${data.title}`;
+    document.title = data.title;
     checkTextEl.textContent = '';
     checkButton.__enabled = false;
     document.body.className = data.className;
@@ -147,8 +142,14 @@
   };
 
   view.$_GET = function(data) {
-    const s = ' spellcheck="false" contenteditable="true"';
-    data.html = data.html.replaceAll(s, '').replaceAll('"area"', '"area"' + s);
+    const s1 = ' spellcheck="false" contenteditable="true"';
+    const s2 = ' autocapitalize="off"';
+
+    data.html = data.html
+      .replaceAll(s1, '')
+      .replaceAll(s2, '')
+      .replaceAll('"area"', '"area"' + s1 + s2);
+
     return pageData = data;
   };
 
@@ -188,7 +189,7 @@
   }
 
   function printError(title, text) {
-    document.title = docTitle;
+    document.title = 'Exercitia';
     document.body.className = '';
     root.classList.add('__unavailable');
 
@@ -204,6 +205,7 @@
 
   if (/^file:|\/localhost:/.test(location.href)) {
     view.__ROOT = { root, rootNodes, get pageData() { return pageData; } };
-    loadScript('assets/js/_admin.js');
-  } else onRoute();
+  } else {
+    onRoute();
+  }
 })(document.defaultView);
