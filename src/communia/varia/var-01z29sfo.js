@@ -1,0 +1,13 @@
+$_GET({
+  title: 'VARIA I',
+  html: /*html*/`
+    <div class="row">
+      <b>I</b> = 1, <b>V</b> = 5, <b>X</b> = 10, <b>L</b> = 50, <b>C</b> = 100, <b>D</b> = 500, <b>M</b> = 1.000, <b>V̄</b> = 5.000<br><br><b>1. Перевести арабские цифры в римские.</b><br><br><b>1.</b> 239 <div class="area" data-key="CC"></div> <div class="area" data-key="XXX"></div> <div class="area" data-key="IX"></div><br><b>2.</b> 754 <div class="area" data-key="DCC"></div> <div class="area" data-key="L"></div> <div class="area" data-key="IV"></div><br><b>3.</b> 1391 <div class="area" data-key="M"></div> <div class="area" data-key="CCC"></div> <div class="area" data-key="XC"></div> <div class="area" data-key="I"></div><br><b>4.</b> 1482 <div class="area" data-key="M"></div> <div class="area" data-key="CD"></div> <div class="area" data-key="LXXX"></div> <div class="area" data-key="II"></div><br><b>5.</b> 1766 <div class="area" data-key="M"></div> <div class="area" data-key="DCC"></div> <div class="area" data-key="LX"></div> <div class="area" data-key="VI"></div><br><br><b>6.</b> 1995 <div class="area" data-key="MCMXCV"></div><br><b>7.</b> 2010 <div class="area" data-key="MMX"></div><br><div><b>8.</b> 2023 <div class="area" data-key="MMXXIII"></div><br><b>9.</b> 3455 <div class="area" data-key="MMMCDLV"></div></div>
+      <div><b>10.</b> 5699 <div class="area" data-key="V̄DCXCIX"></div></div>
+      <div><br></div>
+    </div>
+    <div class="row">
+      <b>2. Перевести римские числа в арабские.</b><br><br><b>1.</b> CDLXXIV <div class="area" data-key="4"></div> <div class="area" data-key="7"></div> <div class="area" data-key="4"></div><br><b>2.</b> CMXCIX <div class="area" data-key="9"></div> <div class="area" data-key="9"></div> <div class="area" data-key="9"></div><br><b>3.</b> MDXII <div class="area" data-key="1"></div> <div class="area" data-key="5"></div> <div class="area" data-key="1"></div> <div class="area" data-key="2"></div><br><b>4.</b> MCMLXXXI <div class="area" data-key="1"></div> <div class="area" data-key="9"></div> <div class="area" data-key="8"></div> <div class="area" data-key="1"></div><br><b>5.</b> MMCXIX <div class="area" data-key="2"></div> <div class="area" data-key="1"></div> <div class="area" data-key="1"></div> <div class="area" data-key="9"></div><br><br><b>6.</b> MMCCCXLVIII <div class="area" data-key="2348"></div><br><b>7.</b> MMMDLXIII <div class="area" data-key="3563"></div><br><b>8.</b> MV̄DCCLXXVII <div class="area" data-key="4777"></div><br><b>9.</b> V̄DLV <div class="area" data-key="5555"></div><br><b>10.</b> V̄MMXC <div class="area" data-key="7900"></div><br>
+    </div>
+  `
+});
