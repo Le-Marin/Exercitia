@@ -49,7 +49,7 @@ $_GET({
       <div><i><div class="area">-iō</div> <div class="area">-īs</div> <div class="area">-it</div> </i>|<i> <div class="area">-īmus</div> <div class="area">-ītis</div> <div class="area">-iunt</div></i><br></div>
       <div><br></div>
       <div>1. Lēander saccum port<div class="area" data-key="at"></div>; item Syrus saccum port<div class="area" data-key="at"></div>.</div>
-      <div>2. Dāvus et Ursus lectīcam cum dominō port<div class="area" data-key="at"></div>.</div>
+      <div>2. Dāvus et Ursus lectīcam cum dominō port<div class="area" data-key="ant"></div>.</div>
       <div>3. Lēander: “Saccus quem tū port<div class="area" data-key="ās"></div>, Syre, levior est quam is quem ego port<div class="area" data-key="ō"></div>.”</div>
       <div>4. Dāvus: “Saccī quōs vōs port<div class="area" data-key="ātis"></div>, Syre et Lēander, leviōrēs sunt quam lectīca quam nōs port<div class="area" data-key="āmus"></div>.”</div>
       <div>5. Iūlia can<div class="area" data-key="it"></div>. Puerī nōn can<div class="area" data-key="unt"></div>, sed rīd<div class="area" data-key="ent"></div>, quod Iūliam canere aud<div class="area" data-key="iunt"></div>, nam puerī eam male canere put<div class="area" data-key="ant"></div>.</div>
