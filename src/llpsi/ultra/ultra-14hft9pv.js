@@ -4,9 +4,8 @@ $_GET({
     <div class="row">
       <div><b>1. Перевести словосочетания с настоящими действительными причастиями.</b></div>
       <div><br></div>
-      <div><div><i>Exemplum</i>:<span style="white-space: pre;">	</span><span style="white-space: pre;">	</span>про боящихся слуг <div class="area">dē servīs timentibus</div></div>
-      <div><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span><span style="white-space: pre;">	</span>про слуг, боящихся хозяев <div class="area">dē servīs dominōs timentibus</div></div></div>
-      <div><br></div>
+      <div><div><i>Exemplum</i>: про боящихся слуг <div class="area">dē servīs timentibus</div></div>
+      <div><br></div></div>
       <div>1. о сражающихся римлянах <div class="area" data-key="dē Rōmānīs pugnantibus"></div></div>
       <div>2. к спящему пастуху <div class="area" data-key="ad pāstōrem dormientem"></div></div>
       <div>3. под светящим солнцем <div class="area" data-key="sub sōle lūcente | sub sōle lūcentī"></div> </div>
@@ -15,6 +14,8 @@ $_GET({
       <div>6. подле плачущей госпожи <div class="area" data-key="apud dominam plōrantem"></div></div>
       <div>7. в летящих птиц <div class="area" data-key="in avēs volantēs"></div></div>
       <div>8. по падающим звёздам <div class="area" data-key="per stēllās cadentēs"></div></div>
+      <div><br></div>
+      <div><div><i>Exemplum</i>: про слуг, боящихся хозяев <div class="area">dē servīs dominōs timentibus</div></div></div>
       <div><br></div>
       <div>1. на служанку, открывающую окно <div class="area" data-key="in ancillam fenestram aperientem"></div></div>
       <div>2. у греков, рассказывающих истории <div class="area" data-key="apud Graecōs fābulās nārrantēs"></div></div>
