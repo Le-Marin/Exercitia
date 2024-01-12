@@ -75,7 +75,8 @@ $_GET({
       <div>monentur ← <div class="area" data-key="2"></div> <div class="area" data-key="monēre"></div></div>
       <div>dīcere → <div class="area" data-key="3"></div> <div class="area" data-key="dīcit"></div> <div class="area" data-key="dīcunt"></div> / <div class="area" data-key="dīcitur"></div> <div class="area" data-key="dīcuntur"></div></div>
       <div>mittunt ← <div class="area" data-key="3"></div> <div class="area" data-key="mittere"></div></div>
-      <div><b>1. Определить падежную функцию выделенных слов.</b></div>
+      <div><br></div>
+      <div><b>6. Определить падежную функцию выделенных слов.</b></div>
       <div><br></div>
       <div><i><div class="area">субъект, подлежащее</div> <div class="area">предикатив (именная часть сказуемого)</div> <div class="area">принадлежность, отношение</div> <div class="area">адресат, получатель</div> <div class="area">объект действия, прямое дополнение</div> <div class="area">обращение</div></i></div>
       <div><br></div>
@@ -95,7 +96,7 @@ $_GET({
       <div><br></div>
     </div>
     <div class="row">
-      <div><b>2. Дать форму генетива.</b></div>
+      <div><b>7. Дать форму генетива.</b></div>
       <div><br></div>
       <div>ancill<b>a</b> → <div class="area" data-key="ancillae"></div></div>
       <div>īnsul<b>a</b> → <div class="area" data-key="īnsulae"></div></div>
@@ -119,7 +120,7 @@ $_GET({
       <div><br></div>
     </div>
     <div class="row">
-      <div><b>3. Дать форму аккузатива.</b></div>
+      <div><b>8. Дать форму аккузатива.</b></div>
       <div><br></div>
       <div>ancill<b>a</b> → <div class="area" data-key="ancillam"></div></div>
       <div>īnsul<b>a</b> → <div class="area" data-key="īnsulam"></div></div>
@@ -143,7 +144,7 @@ $_GET({
       <div><br></div>
     </div>
     <div class="row">
-      <div><b>4. Дать форму аблятива.</b></div>
+      <div><b>9. Дать форму аблятива.</b></div>
       <div><br></div>
       <div>ancill<b>a</b> → <div class="area" data-key="ancillā"></div></div>
       <div>īnsul<b>a</b> → <div class="area" data-key="īnsulā"></div></div>
@@ -167,7 +168,7 @@ $_GET({
       <div><br></div>
     </div>
     <div class="row">
-      <div><b>5. Дать форму датива.</b></div>
+      <div><b>10. Дать форму датива.</b></div>
       <div><br></div>
       <div>ancill<b>a</b> → <div class="area" data-key="ancillae"></div></div>
       <div>īnsul<b>a</b> → <div class="area" data-key="īnsulae"></div></div>
@@ -191,7 +192,7 @@ $_GET({
       <div><br></div>
     </div>
     <div class="row">
-      <div><b>6. Дать нужную форму после предлога.</b></div>
+      <div><b>11. Дать нужную форму после предлога.</b></div>
       <div><br></div>
       <div>Graec<b>ī</b> → apud <div class="area" data-key="Graecōs"></div></div>
       <div>vīll<b>a</b> → ē <div class="area" data-key="vīllā"></div></div>
@@ -211,7 +212,7 @@ $_GET({
       <div><br></div>
     </div>
     <div class="row">
-      <div><b>7. Задать вопросы к выделенным словам.</b></div>
+      <div><b>12. Задать вопросы к выделенным словам.</b></div>
       <div><br></div>
       <div><i>Exemplum</i>:<span style="white-space: pre;">	</span><b>Iūlius</b> Tūsculī est. <div class="area">quis?</div></div>
       <div><span style="white-space: pre;">			</span>Iūlius <b>Tūsculī</b> est. <div class="area">ubi?</div></div>
