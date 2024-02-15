@@ -38,7 +38,7 @@ $_GET({
       <div>4. вестником, отправляющимся в лагерь <div class="area" data-key="ā nūntiō in castra proficīscente"></div></div>
       <div>5. среди солдат, следующих за полководцем <div class="area" data-key="inter mīlitēs ducem sequentēs"></div></div>
       <div>6. для <i>(prō)</i> рабов, радующихся милости <i>(grātia, abl.)</i> <div class="area" data-key="prō servīs grātiā laetantibus"></div></div>
-      <div>7. от больной, опасающейся смерти <div class="area" data-key="ab aegrōtā mortem verentem"></div></div>
+      <div>7. от больной, опасающейся смерти <div class="area" data-key="ab aegrōtā mortem verente"></div></div>
       <div>8. на Цезаря, всматривающегося в лица сенаторов <div class="area" data-key="in Caesarem faciēs senātōrum intuentem"></div></div>
       <div>9. без учителя, говорящего по-латыни <i>(Latīnē)</i> <div class="area" data-key="sine magistrō Latīnē loquente"></div></div>
       <div>10. с войском, пытающимся защищать вал <div class="area" data-key="cum exercitū vāllum dēfendere cōnante"></div></div>
